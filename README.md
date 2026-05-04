@@ -120,7 +120,11 @@ O projeto utiliza **JUnit 5**, **Mockito** e **AssertJ**.
 ./mvnw test
 ```
 
-Os testes cobrem:
+## 🏛️ Full Achitecture
+TechChallenge-Module-4.1(https://github.com/Murillo-Henrique-Monteiro-Nacfur/TechChallenge-Module-4.1)
+TechChallenge-Module-4.2(https://github.com/Murillo-Henrique-Monteiro-Nacfur/TechChallenge-Module-4.2)
+TechChallenge-Module-4.3(https://github.com/Murillo-Henrique-Monteiro-Nacfur/TechChallenge-Module-4.3)
+
 *   Lógica dos Use Cases.
 *   Gateways (com mocks de infraestrutura).
 *   Interceptors de exceção.
